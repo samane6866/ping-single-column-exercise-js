@@ -22,7 +22,7 @@ Implementa el JavaScript necesario para que, tras escribir una dirección de cor
 
 ## Ejercicio 2
 
-Modifica tu script para que, en el caso que el mail introducido este contenido en la variable _registeredEmaiñs_ , todo funciona igual que en el Ejercicio 1, pero además, el texto que debe aparecer es otro: 'El usuario con el email {el email que ha introducido el usuaroi} ya existe en nuestro sistema.'
+Modifica tu script para que, en el caso que el mail introducido este contenido en la variable _registeredEmails_ , todo funciona igual que en el Ejercicio 1, pero además, el texto que debe aparecer es otro: 'El usuario con el email {el email que ha introducido el usuaroi} ya existe en nuestro sistema.'
 
 ¿Cómo obtener el valor de un objeto de tipo _input_? : https://www.w3schools.com/jsref/prop_text_value.asp
 
