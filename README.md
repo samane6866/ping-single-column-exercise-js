@@ -7,7 +7,9 @@ REVISA el fichero index.html para ver la estructura general del documento, sobre
 
 ## Ejercicio 1
 
-Implementa el JavaScript necesario para que, tras escribir una dirección de correo en el formulario y hagamos click en el botón, desaparezca el formulario y salga el mensaje de confirmación
+Implementa el JavaScript necesario para que, tras escribir una dirección de correo en el formulario y hagamos click en el botón, desaparezca el formulario y salga el mensaje de confirmación.
+
+DE MOMENTO no hay que hacer nada con la variable _registeredEmails_
 
 <details>
   <summary>Pasos y pistas</summary>
