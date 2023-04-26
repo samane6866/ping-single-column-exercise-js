@@ -5,4 +5,6 @@ const registeredEmails = [
   "faustino@gmail.com",
 ];
 
+// PASO PREVIO: Añadir un listener al formulario para el event 'submit', y ejecutar el event.preventDefault()
+
 
